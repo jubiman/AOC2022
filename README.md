@@ -1,5 +1,6 @@
 # AOC2022
 4 SUM REASON I WANTD 2 DO DIS IN LOLCODE
+
 Special file reformatting:
   - files must end with "."
   - day1:
