@@ -2,7 +2,7 @@ HAI 1.3
 CAN HAS STDIO?
 CAN HAS STRING?
 BTW Open file for reading
-I HAS A readFile ITZ I IZ STDIO'Z OPEN YR "1" AN YR "r" MKAY
+I HAS A readFile ITZ I IZ STDIO'Z OPEN YR "inputs/1" AN YR "r" MKAY
 I IZ STDIO'Z DIAF YR readFile MKAY
 O RLY?
 	YA RLY
@@ -34,7 +34,6 @@ I HAS A maxSum1 ITZ 0
 I HAS A maxSum2 ITZ 0
 I HAS A maxSum3 ITZ 0
 I HAS A pos ITZ 0
-I HAS A ignored ITZ 0
 IM IN YR iterLoop
     I HAS A currSum ITZ 0
     I HAS A charAtPos1 ITZ I IZ STRING'Z AT YR linez AN YR pos MKAY
