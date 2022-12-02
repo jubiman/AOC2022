@@ -24,5 +24,8 @@ IM IN YR readLoop UPPIN YR i WILE WIN
     OIC
     linez R SMOOSH linez AN contents MKAY
 IM OUTTA YR readLoop
+BTW Close file
+I IZ STDIO'Z CLOSE YR readFile MKAY
+
 
 KTHXBYE
